@@ -56,3 +56,7 @@ def merge_sort1(dizi, left_array, right_array):
 array1 = [16,21,11,8,12,22] 
 merge_sort(array1)
 print(array1)
+
+
+
+www.patika.dev
