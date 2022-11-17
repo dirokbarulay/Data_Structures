@@ -56,3 +56,5 @@ def sel_sort(dizi1):
 b_array = [7, 3, 5, 8, 2, 9, 4, 15, 6]
 sel_sort(b_array)
 print(b_array)
+
+www.patika.dev 
